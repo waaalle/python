@@ -1,0 +1,4 @@
+Black: 17
+Malfoy: 21
+Potter: 19
+Weasley: 15
