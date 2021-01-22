@@ -5,7 +5,7 @@
 словарь на экран.
 
 """
-FILENAME = "hw5.6.txt"
+FILENAME = "test_6.txt"
 
 subjects = {}
 
